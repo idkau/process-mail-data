@@ -1,15 +1,7 @@
 # process-mail-data
 Process lines of text to int of mail data to output to terminal with colors
 
-
-
-
-
-
-
-
-
-
+Sample output
 
 ------------------------------------------
         Managed VPS Email Stats
